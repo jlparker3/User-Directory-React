@@ -1,9 +1,16 @@
-import React from 'react'
+import TableBody from "./TableBody";
+import SearchForm from "./SearchForm"
 
-function Table() {
+
+
+function Table({ users }) {
     return (
         <div>
-            TABLE
+           <SearchForm />
+
+            <TableBody 
+            users = {users}
+            />
         </div>
     )
 }
