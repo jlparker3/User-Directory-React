@@ -1,18 +1,18 @@
 # User-Directory-React
 
 # Purpose
-With this employee directory, the purpose is stay organized with your current employees. We do this by allowing their data to present in a table that is clean and easy to navigate. 
+With this employee directory, the purpose is stay organized with your current employees. We do this by allowing their data to present in a table that is clean and easy to navigate. This react app ulitizles a random user API for the data to implicate how the application could be used.
 
 
 # Link to app
-
+https://jlparker3.github.io/User-Directory-React/
 
 # Screenshot of working app
 <img width="1440" alt="Screen Shot 2021-02-23 at 3 25 41 PM" src="https://user-images.githubusercontent.com/68556793/108910388-66f48f80-75eb-11eb-8d36-f2ee6aa40efc.png">
 
 
 
-# Installilation 
+# Installation 
 Clone the repo, install the depencencies using "npm i" and start the application by using "npm start" or you can click on the link.
 
 # Credits
